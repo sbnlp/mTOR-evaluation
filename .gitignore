@@ -1,3 +1,9 @@
+# mTOR data related
+results*
+*.xml
+*.pickle
+*.simstring
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
