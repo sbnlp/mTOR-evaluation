@@ -3,9 +3,11 @@ Scripts for mTOR evaluation of the overlap between the mTOR pathway and the outp
 
 Detailed information can be found : http://sbnlp.github.io/mtorevaluation
 
-Read the complete paper here:
+Material describing the evaluation:
 
-[Extracting Biological Pathway Models From NLP Event Representations](http://aclweb.org/anthology/W/W16/W16-2916.pdf) - Proceedings of the 15th Workshop on Biomedical Natural Language Processing, Berlin, Germany, 2016, pages 119-127. Association for Computational Linguistics
+* [Extracting Biological Pathway Models From NLP Event Representations](http://aclweb.org/anthology/W/W16/W16-2916.pdf) - Proceedings of the 15th Workshop on Biomedical Natural Language Processing, Berlin, Germany, 2016, pages 119-127. Association for Computational Linguistics
+
+* [Supplementary Materials](https://sbnlp.github.io/mTOR-evaluation/supp.pdf)
 
 It might be difficult to run the software out of the box. If you have any trouble, don't hesitate to contact us.
 
